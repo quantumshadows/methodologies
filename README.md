@@ -1,2 +1,2 @@
-# methodologies
+# Methodologies
 Pentest/Bughunting Techniques
