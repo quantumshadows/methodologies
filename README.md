@@ -1,2 +1,2 @@
-# Methodologies
+# Methodologies 🎯
 Pentest/Bughunting Techniques
